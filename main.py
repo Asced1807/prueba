@@ -4,6 +4,6 @@ def saludo(nombre):
     saludar = f'bienvenido {nombre} a mi git'
     return saludar
 
-mensaje = salud(nombre)
+mensaje = saludo(nombre)
 
 print(mensaje)
